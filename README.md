@@ -1,5 +1,5 @@
 <h1 align="center"> Loja Virtual </h1>
-<h2 align="center"> Este projeto foi desenvolvido como Back End para  o projeto Loja Virtual do curso Oracle ONE -Java e Orientação a Objetos, módulo Java e JDBC Trabalhando com um Banco de Dados</h2><br>
+<h2 align="center"> Este projeto foi desenvolvido como Back End para  o projeto Loja Virtual do curso Oracle ONE - Java e Orientação a Objetos, módulo Java e JDBC Trabalhando com um Banco de Dados</h2><br>
 
 <p align="center">
 <img src="loja-virtual.png" /> 
